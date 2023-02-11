@@ -1,6 +1,8 @@
 # Hackmol4.0
 Team Name : Lazy Coders 
-Team Member 1:     Jashan Sehgal (Btech IT)
+
+
+Team Member 1:     Jashan Sehgal (Btech IT)(Team Leader)
 College Name:       NIT [National Institute of Technology] , Jalandhar
 
 Team Member 2:   Sambhav Gandhi (Intern @ FintApp)
